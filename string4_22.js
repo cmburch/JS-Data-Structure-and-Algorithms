@@ -22,7 +22,6 @@
         return result;
     }
 
-    charCount("hello hello");
 
 
 
